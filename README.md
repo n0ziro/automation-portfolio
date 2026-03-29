@@ -4,7 +4,7 @@ Selbstständiges Erlernen von KI-Automatisierung und Datenanalyse.
 Ziel: Ausbildung zum Fachinformatiker.
 
 > Alle Projekte wurden innerhalb der ersten 3 Lerntage erstellt.
-> Lernbeginn: April 2026 | Täglicher Lernaufwand: 2–3 Stunden
+> Lernbeginn: 26 März 2026 | Täglicher Lernaufwand: 2–3 Stunden
 
 ---
 
