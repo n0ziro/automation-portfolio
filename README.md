@@ -27,7 +27,6 @@ ein Kunde das Google-Formular ausfüllt:
 4. Alle Daten werden in Google Sheets gespeichert
 
 **Ergebnis:**
-![Projekt 1 Screenshot.png](projekt1-formular-automatisierung.png)
 Antwortzeit von mehreren Stunden auf 0 Sekunden reduziert.
 Vollständig automatisiert – kein manueller Aufwand nötig.
 
@@ -49,7 +48,7 @@ Make.com-Szenario das bei jedem eingehenden E-Mail startet:
 4. Betreff, Inhalt und KI-Antwort werden in Google Sheets protokolliert
 
 **Ergebnis:**
-![Projekt 2 Screenshot](projekt2-email-automatisierung.png)
+![Projekt 2 Screenshot](Projekt 2 Screenshot.png)
 E-Mails werden in Echtzeit verarbeitet und beantwortet.
 Komplette Dokumentation aller Vorgänge in der Tabelle.
 
