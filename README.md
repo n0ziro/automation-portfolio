@@ -1,5 +1,3 @@
-# automation-portfolio
-AI &amp; automation projects built with Make.com
 # Automation Portfolio – Nazarii Zhurov
 
 Selbstständiges Erlernen von KI-Automatisierung und Datenanalyse.
