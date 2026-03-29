@@ -71,4 +71,4 @@ Komplette Dokumentation aller Vorgänge in der Tabelle.
 - [ ] Kombiniertes Datenanalyse-Projekt
 
 ---
-*Lernbeginn: April 2026*
+*Lernbeginn: 26 März 2026*
