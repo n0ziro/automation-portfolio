@@ -27,6 +27,7 @@ ein Kunde das Google-Formular ausfüllt:
 4. Alle Daten werden in Google Sheets gespeichert
 
 **Ergebnis:**
+![Projekt 1 Screenshot](Projekt%201%20Screenshot.png)
 Antwortzeit von mehreren Stunden auf 0 Sekunden reduziert.
 Vollständig automatisiert – kein manueller Aufwand nötig.
 
