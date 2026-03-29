@@ -48,7 +48,6 @@ Make.com-Szenario das bei jedem eingehenden E-Mail startet:
 4. Betreff, Inhalt und KI-Antwort werden in Google Sheets protokolliert
 
 **Ergebnis:**
-![Projekt 2 Screenshot](Projekt-2-Screenshot.png)
 E-Mails werden in Echtzeit verarbeitet und beantwortet.
 Komplette Dokumentation aller Vorgänge in der Tabelle.
 
