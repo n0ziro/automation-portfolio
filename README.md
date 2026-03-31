@@ -32,7 +32,7 @@ Vollständig automatisiert – kein manueller Aufwand nötig.
 
 ---
 
-### Projekt 2 – Automatische E-Mail-Bearbeitung mit KI 29.03.2026
+### Projekt 2 – Automatische E-Mail-Bearbeitung mit KI - 29.03.2026
 
 **Tools:** Make.com · Gmail · OpenAI (ChatGPT) · Google Sheets
 
@@ -54,7 +54,7 @@ Komplette Dokumentation aller Vorgänge in der Tabelle.
 
 ---
 
-### Projekt 3 – RSS-News & Wetter-Assistent via Telegram 31.03.2026
+### Projekt 3 – RSS-News & Wetter-Assistent via Telegram - 31.03.2026
 
 **Tools:** Make.com · RSS · OpenWeatherMap · OpenAI (ChatGPT) · Telegram Bot
 
