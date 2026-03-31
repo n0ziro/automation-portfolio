@@ -70,7 +70,7 @@ Make.com-Szenario das automatisch alle 15 Minuten läuft:
 4. Telegram Bot sendet die Nachricht auf Ukrainisch und Deutsch
 
 **Ergebnis:**
-![Projekt 3 Screenshot](Projekt%203%20Screenshot.png)
+
 Automatischer persönlicher Assistent – läuft alle 15 Minuten,
 kein manueller Aufwand. 4 Dienste in einem Szenario integriert.
 ## Technische Fähigkeiten
