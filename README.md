@@ -3,14 +3,13 @@
 Selbstständiges Erlernen von KI-Automatisierung und Datenanalyse.
 Ziel: Ausbildung zum Fachinformatiker.
 
-> Alle Projekte wurden innerhalb der ersten 3 Lerntage erstellt.
 > Lernbeginn: 26 März 2026 | Täglicher Lernaufwand: 2–3 Stunden
 
 ---
 
 ## Projekte
 
-### Projekt 1 – Automatische Formularverarbeitung mit KI
+### Projekt 1 – Automatische Formularverarbeitung mit KI - 28.03.2026
 
 **Tools:** Make.com · Google Forms · OpenAI (ChatGPT) · Gmail · Google Sheets
 
@@ -33,7 +32,7 @@ Vollständig automatisiert – kein manueller Aufwand nötig.
 
 ---
 
-### Projekt 2 – Automatische E-Mail-Bearbeitung mit KI
+### Projekt 2 – Automatische E-Mail-Bearbeitung mit KI 29.03.2026
 
 **Tools:** Make.com · Gmail · OpenAI (ChatGPT) · Google Sheets
 
@@ -55,7 +54,7 @@ Komplette Dokumentation aller Vorgänge in der Tabelle.
 
 ---
 
-### Projekt 3 – RSS-News & Wetter-Assistent via Telegram
+### Projekt 3 – RSS-News & Wetter-Assistent via Telegram 31.03.2026
 
 **Tools:** Make.com · RSS · OpenWeatherMap · OpenAI (ChatGPT) · Telegram Bot
 
