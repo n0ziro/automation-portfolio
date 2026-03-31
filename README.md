@@ -55,7 +55,28 @@ Komplette Dokumentation aller Vorgänge in der Tabelle.
 
 ---
 
+### Projekt 3 – RSS-News & Wetter-Assistent via Telegram
+
+**Tools:** Make.com · RSS · OpenWeatherMap · OpenAI (ChatGPT) · Telegram Bot
+
+**Problem:**
+Jeden Morgen manuell Nachrichten und Wetter prüfen kostet Zeit.
+
+**Lösung:**
+Make.com-Szenario das automatisch alle 15 Minuten läuft:
+1. RSS liest aktuelle Nachrichten (z.B. Tagesschau)
+2. OpenWeatherMap liefert aktuelle Wetterdaten
+3. OpenAI analysiert beide Quellen und erstellt eine 
+   persönliche Zusammenfassung
+4. Telegram Bot sendet die Nachricht auf Ukrainisch und Deutsch
+
+**Ergebnis:**
+![Projekt 3 Screenshot](Projekt%203%20Screenshot.png)
+Automatischer persönlicher Assistent – läuft alle 15 Minuten,
+kein manueller Aufwand. 4 Dienste in einem Szenario integriert.
 ## Technische Fähigkeiten
+
+---
 
 | Tool | Level |
 |------|-------|
