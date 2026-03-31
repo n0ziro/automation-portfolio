@@ -83,6 +83,7 @@ kein manueller Aufwand. 4 Dienste in einem Szenario integriert.
 | Make.com | Grundlagen – Fortgeschritten |
 | OpenAI API (via Make) | Grundlagen |
 | Google Sheets | Grundlagen |
+| Telegram Bot API (via Make) | Grundlagen |
 | GitHub | Grundlagen |
 
 ---
