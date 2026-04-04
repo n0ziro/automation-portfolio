@@ -77,12 +77,46 @@ kein manueller Aufwand. 4 Dienste in einem Szenario integriert.
 
 ---
 
+### Projekt 4 – KI-Agent: Automatischer Wochenbericht
+
+**Tools:** Make.com · Make AI Agent · Google Sheets · Telegram Bot
+
+**Geschäftsszenario:**
+Ein Verkäufer pflegt seine Verkaufsdaten in Google Sheets.
+Jeden Montag analysiert ein KI-Agent automatisch alle Daten
+und liefert einen vollständigen Wochenbericht.
+
+**Automatisierungsablauf:**
+1. Google Sheets liefert alle Verkaufsdaten
+   (Datum, Produkt, Menge, Umsatz)
+2. Text Aggregator fasst alle Zeilen zusammen
+3. Make AI Agent analysiert die Daten und führt 3 Aufgaben aus:
+   - Erstellt personalisierte Telegram-Nachricht mit Rankings
+   - Berechnet Gesamtumsatz und Einzelumsätze
+   - Gibt Verbesserungsvorschläge als Business Analyst
+4. Telegram Bot sendet den fertigen Wochenbericht
+5. Google Sheets speichert die analysierten Daten
+
+**Besonderheit:**
+Erster Einsatz von Make AI Agents – fortgeschrittene Technik
+die eigenständige Entscheidungen und mehrere parallele
+Aufgaben ermöglicht.
+
+**Ergebnis:**
+![Projekt 3 Screenshot](Projekt%204%20Screenshot.png)
+Vollautomatischer Business-Intelligence-Report. Spart dem
+Verkäufer 30–60 Minuten manuelle Auswertung pro Woche.
+Einsetzbar für jeden kleinen Betrieb mit Verkaufsdaten.
+
+---
+
 | Tool | Level |
 |------|-------|
-| Make.com | Grundlagen – Fortgeschritten |
-| OpenAI API (via Make) | Grundlagen |
-| Google Sheets | Grundlagen |
-| Telegram Bot API (via Make) | Grundlagen |
+| Make.com | Fortgeschritten |
+| Make AI Agents | Grundlagen |
+| OpenAI API (via Make) | Fortgeschritten |
+| Google Sheets | Grundlagen – Fortgeschritten |
+| Telegram Bot API | Grundlagen |
 | GitHub | Grundlagen |
 
 ---
