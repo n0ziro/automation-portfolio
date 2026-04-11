@@ -110,13 +110,53 @@ Einsetzbar für jeden kleinen Betrieb mit Verkaufsdaten.
 
 ---
 
+### Projekt 5 – Automatisches Bestellsystem mit Webhook
+
+**Tools:** Make.com · Tally · Webhook · OpenAI · 
+Router · Telegram · Gmail · Google Sheets
+
+**Geschäftsszenario:**
+Ein Online-Shop erhält Bestellungen über ein 
+Tally-Formular. Das System verarbeitet jede 
+Bestellung vollautomatisch in Echtzeit.
+
+**Automatisierungsablauf:**
+1. Kunde füllt Tally-Bestellformular aus
+2. Webhook löst Make-Szenario sofort aus
+3. OpenAI erstellt personalisierte HTML-Bestätigungs-E-Mail
+4. Router verteilt parallel auf 3 Kanäle:
+   → Gmail sendet Bestätigung an Kunden
+   → Telegram benachrichtigt das Team sofort
+   → Google Sheets speichert alle Bestelldaten
+
+**Technische Highlights:**
+- Echtzeit-Verarbeitung via Webhook
+- Tally fields[] Array korrekt gemappt
+- HTML-formatierte E-Mails
+- 3 parallele Router-Pfade gleichzeitig
+
+**Ergebnis:**
+![Projekt 3 Screenshot](Projekt%205%20Screenshot.png)
+Vollautomatische Bestellverarbeitung in unter 
+20 Sekunden. Kein manueller Aufwand nötig.
+Einsetzbar für jeden Online-Shop oder 
+Dienstleister.
+
+**Status:** 5x erfolgreich getestet ✓
+
+---
+
 | Tool | Level |
 |------|-------|
 | Make.com | Fortgeschritten |
-| Make AI Agents | Grundlagen |
+| Webhooks | Grundlagen ✓ |
+| Make AI Agents | Grundlagen – Fortgeschritten |
+| Router & parallele Pfade | Fortgeschritten |
+| Tally Forms | Grundlagen |
 | OpenAI API (via Make) | Fortgeschritten |
-| Google Sheets | Grundlagen – Fortgeschritten |
-| Telegram Bot API | Grundlagen |
+| Google Sheets | Fortgeschritten |
+| Telegram Bot API | Grundlagen – Fortgeschritten |
+| Gmail Automation | Grundlagen – Fortgeschritten |
 | GitHub | Grundlagen |
 
 ---
