@@ -103,7 +103,7 @@ die eigenständige Entscheidungen und mehrere parallele
 Aufgaben ermöglicht.
 
 **Ergebnis:**
-![Projekt 3 Screenshot](Projekt%204%20Screenshot.png)
+![Projekt 4 Screenshot](Projekt%204%20Screenshot.png)
 Vollautomatischer Business-Intelligence-Report. Spart dem
 Verkäufer 30–60 Minuten manuelle Auswertung pro Woche.
 Einsetzbar für jeden kleinen Betrieb mit Verkaufsdaten.
@@ -136,7 +136,7 @@ Bestellung vollautomatisch in Echtzeit.
 - 3 parallele Router-Pfade gleichzeitig
 
 **Ergebnis:**
-![Projekt 3 Screenshot](Projekt%205%20Screenshot.png)
+![Projekt 5 Screenshot](Projekt%205%20Screenshot.png)
 Vollautomatische Bestellverarbeitung in unter 
 20 Sekunden. Kein manueller Aufwand nötig.
 Einsetzbar für jeden Online-Shop oder 
@@ -146,17 +146,62 @@ Dienstleister.
 
 ---
 
+### Projekt 6 – KI-Website-Consultant "Joe"
+
+**Tools:** Make.com · Tally · Browse AI · Make AI Agent · 
+Gmail · Google Calendar · Google Sheets
+
+**Geschäftsszenario:**
+Eine Webdesign-Agentur erhält täglich Anfragen von 
+Unternehmen die ihren Webauftritt verbessern möchten.
+"Joe" übernimmt die komplette Erstbearbeitung automatisch.
+
+**Automatisierungsablauf:**
+1. Kunde füllt Tally-Formular aus
+   (Name, Email, Website, Wunschtermin, Nachricht)
+2. Browse AI analysiert die angegebene Website
+3. Make AI Agent "Joe" führt 6 Tasks aus:
+   → Spam & Relevanzprüfung
+   → Website-Analyse (Design, UX, Klarheit)
+   → Kalender-Check (Mo–Fr 09–16 Uhr CET)
+   → Termin erstellen oder Alternativen vorschlagen
+   → Personalisierte E-Mail mit konkreter Beobachtung
+   → Google Sheets Logging
+4. Gmail sendet E-Mail direkt an den Kunden
+5. Google Calendar erstellt Meeting mit Google Meet
+6. Google Sheets protokolliert alle Daten
+
+**Technische Highlights:**
+- Browse AI für Echtzeit Website-Analyse
+- Make AI Agent mit 6 strukturierten Tasks
+- Kalender-Logik mit Zeitfenster-Prüfung
+- Strikte Prompt-Regeln für natürliche Kommunikation
+- Vollständiges CRM-Logging
+
+**Ergebnis:**
+![Projekt 6 Screenshot](Projekt%206%20Screenshot.png)
+![Projekt 6 Screenshot](Projekt%206.1%20Screenshot.png)
+Ersetzt 30–60 Minuten manuelle Erstbearbeitung 
+pro Anfrage. Reif für den Einsatz in echten 
+Webdesign-Agenturen.
+
+*Erstellt: 19. April 2026*
+
+---
+
 | Tool | Level |
 |------|-------|
 | Make.com | Fortgeschritten |
-| Webhooks | Grundlagen ✓ |
-| Make AI Agents | Grundlagen – Fortgeschritten |
+| Make AI Agents | Fortgeschritten |
+| Browse AI | Grundlagen |
+| Google Calendar API | Grundlagen |
+| Webhooks | Grundlagen – Fortgeschritten |
 | Router & parallele Pfade | Fortgeschritten |
-| Tally Forms | Grundlagen |
 | OpenAI API (via Make) | Fortgeschritten |
 | Google Sheets | Fortgeschritten |
-| Telegram Bot API | Grundlagen – Fortgeschritten |
-| Gmail Automation | Grundlagen – Fortgeschritten |
+| Gmail Automation | Fortgeschritten |
+| Tally Forms | Grundlagen – Fortgeschritten |
+| Python | Grundlagen (Start) |
 | GitHub | Grundlagen |
 
 ---
